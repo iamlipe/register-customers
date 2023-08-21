@@ -18,7 +18,7 @@ jobs:
           cache: 'npm'
 
       - name: Clean install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Lint
         run: cd ./web && npm run lint
