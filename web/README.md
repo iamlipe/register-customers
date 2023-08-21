@@ -23,8 +23,3 @@ $ npm run dev
 ## Resultado dos testes de cobertura
 
 ![create_customer](../assets/unit-testing-coverage-frontend.png)
-
-## Layout
-
-![create_customer](../assets/create.customer.mov)
-![update_customer](../assets/update.customer.mov)
